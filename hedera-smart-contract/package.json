@@ -1,0 +1,11 @@
+{
+  "name": "hedera-smart-contract",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@hashgraph/sdk": "^2.13.1",
+    "dotenv": "^16.0.0",
+    "solc": "^0.8.13"
+  }
+}

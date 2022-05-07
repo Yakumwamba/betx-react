@@ -7,7 +7,7 @@
     "version": "3.0.3",
     "minimum-overwolf-version": "0.160.0",
     "description": "An example app for developers new to Overwolf",
-    "dock_button_title": "Sample - TS",
+    "dock_button_title": "Vigilant Tournaments",
     "icon": "icons/IconMouseOver.png",
     "icon_gray": "icons/IconMouseNormal.png",
     "launcher_icon": "icons/desktop-icon.ico",
